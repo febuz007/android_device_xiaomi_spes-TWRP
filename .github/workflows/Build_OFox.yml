@@ -18,9 +18,9 @@ env:
   Rec_name: Ofox
   Rec_ver: "11.0"
   Rec_url: https://gitlab.com/OrangeFox/sync.git -b master
-  device: spes
-  DT_url: https://github.com/shashankx86/android_device_xiaomi_spes -b twrp-11
-  DT_path: device/xiaomi/spes
+  device: mojito
+  DT_url: https://github.com/febuz007/device_xiaomi_mojito -b fox_12.1
+  DT_path: device/xiaomi/mojito
   ProductFileHeader: twrp
   target: bootimage
   WorkSpace: WorkSpace
