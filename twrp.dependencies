@@ -1,8 +1,8 @@
 [
   {
     "remote": "github",
-    "repository": "shashankx86/kernel_xiaomi_spes",
-    "target_path": "kernel/xiaomi/spes",
+    "repository": "febuz007/kernel_xiaomi_mojito",
+    "target_path": "kernel/xiaomi/mojito",
     "revision": "main"
   }
 ]
