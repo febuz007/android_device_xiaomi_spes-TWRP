@@ -1,13 +1,13 @@
-# TWRP Tree for Redmi note 11
+# TWRP Tree for Redmi note 10
 
 ## Device specifications
 
-| Device                  | Xiaomi Redmi Note 11                                        |
+| Device                  | Xiaomi Redmi Note 10                                        |
 | ----------------------- | :---------------------------------------------------------- |
-| Codename                | Spes                                                        |
-| SoC                     | Qualcomm SM6225 Snapdragon 680 4G (6 nm)                    |
+| Codename                | Mojito                                                        |
+| SoC                     | Qualcomm SM6225 Snapdragon 678 4G (11 nm)                    |
 | CPU                     | Octa-core (4x2.4 GHz Kryo 265 Gold & 4x1.9 GHz Kryo 265 Silver)|
-| GPU                     | Adreno 610                                                  |
+| GPU                     | Adreno 612                                                  |
 | Memory                  | 4GB / 6GB RAM                                               |
 | Shipped Android version | 11                                                          |
 | Storage                 | 64/128GB                                                    |
@@ -15,13 +15,12 @@
 | Battery                 | Li-Po 5000 mAh, non-removable                               |
 | Dimensions              | 159.9 x 73.9 x 8.1 mm (6.30 x 2.91 x 0.32 in)               |
 | Display                 | 1080 x 2400 pixels, 20:9 ratio, 6.43 inch                   |
-| Rear camera 1           | 50 MP, f/1.8, 26mm (wide), 1/2.76", 0.64µm, PDAF            |
+| Rear camera 1           | 48 MP, f/1.8, 26mm (wide), 1/2.76", 0.64µm, PDAF            |
 | Rear camera 2           | 8 MP, f/2.2, 118˚ (ultrawide), 1/4", 1.12µm                 |
 | Rear camera 3           | 2 MP, f/2.4, (macro)                                        |
 | Rear camera 4           | 2 MP, f/2.4, (depth)                                        |
 | Front camera            | 13 MP, f/2.4, (wide), 1/3.1", 1.12µm                        |
 
-![Xiaomi Redmi Note 11](spes.png)
 
 ## Copyright
 
