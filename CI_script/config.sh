@@ -1,10 +1,10 @@
 #!/bin/bash
 
 # Device
-export FOX_BRANCH="fox_11.0"
-export DT_LINK="https://github.com/OrangeFoxRecovery/device_xiaomi_spes.git -b fox_11.0"
+export FOX_BRANCH="fox_12.1"
+export DT_LINK="https://github.com/OrangeFoxRecovery/device_xiaomi_mojito.git -b fox_12.1"
 
-export DEVICE="spes"
+export DEVICE="mojito"
 export OEM="xiaomi"
 export TARGET="bootimage"
 
